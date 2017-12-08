@@ -1,9 +1,5 @@
 package org.siberteam.tumasov;
 
-/* Задача:
-
-*/
-
 import org.apache.log4j.Logger;
 import org.siberteam.tumasov.workers.ConsolePrinter;
 import org.siberteam.tumasov.workers.WordParser;
